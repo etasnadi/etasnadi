@@ -1,3 +1,6 @@
+NEWS:
+roi_align 3D kernels for Tensorflow: https://github.com/etasnadi/roi_align_3D
+
 - 👋 Hi, I’m @etasnadi
 - 👀 I’m interested in bioimage analysis.
 - 📫 You can reach me at tasnadi.ervin@brc.hu
